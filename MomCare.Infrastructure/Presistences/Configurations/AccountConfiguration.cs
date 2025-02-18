@@ -2,7 +2,9 @@
 
 namespace MomCare.Infrastructure.Presistences.Configurations
 {
-    internal class AccountConfiguration : IEntityTypeConfiguration<object>
+    internal class AccountConfiguration
     {
+
     }
+    
 }
