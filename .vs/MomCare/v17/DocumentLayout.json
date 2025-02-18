@@ -67,7 +67,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MomCare.Domain",
+              "Title": "MomCare.Domain.csproj",
               "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj",
               "RelativeDocumentMoniker": "MomCare.Domain\\MomCare.Domain.csproj",
               "ToolTip": "D:\\SWP\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj",
@@ -87,8 +87,7 @@
               "RelativeToolTip": "MomCare.Infrastructure\\Presistences\\Configurations\\AccountConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T03:49:24.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T03:49:24.625Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "MomCare.Infrastructure\\Presistences\\ApplicationDbContext.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T03:43:06.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T03:43:06.761Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "MomCare.Domain\\Entities\\AccountEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T03:34:17.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T03:34:17.463Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "MomCare_SE1842_BE\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-18T03:15:02.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T03:15:02.123Z"
             },
             {
               "$type": "Document",
