@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SWP\\MomCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare_SE1842_BE\\MomCare.API.csproj|d:\\swp\\momcare\\momcare_se1842_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare_SE1842_BE\\MomCare.API.csproj|solutionrelative:momcare_se1842_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|d:\\swp\\momcare\\momcare.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|solutionrelative:momcare.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|d:\\swp\\momcare\\momcare.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|solutionrelative:momcare.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare_SE1842_BE\\MomCare_SE1842_BE.csproj|d:\\swp\\momcare\\momcare_se1842_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare_SE1842_BE\\MomCare_SE1842_BE.csproj|solutionrelative:momcare_se1842_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare_SE1842_BE\\appsettings.json",
+              "RelativeDocumentMoniker": "MomCare_SE1842_BE\\appsettings.json",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare_SE1842_BE\\appsettings.json",
+              "RelativeToolTip": "MomCare_SE1842_BE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T03:15:02.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MomCare.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "MomCare.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:14:07.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MomCare.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "MomCare.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:12:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare_SE1842_BE\\Program.cs",
+              "RelativeDocumentMoniker": "MomCare_SE1842_BE\\Program.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare_SE1842_BE\\Program.cs",
+              "RelativeToolTip": "MomCare_SE1842_BE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:03:48.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

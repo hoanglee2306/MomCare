@@ -1,0 +1,6 @@
+@MomCare_SE1842_BE_HostAddress = http://localhost:5071
+
+GET {{MomCare_SE1842_BE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
