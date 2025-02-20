@@ -15,10 +15,6 @@ namespace MomCare.Infrastructure.Presistences
         {
 
         }
-
-
-        public DbSet<AccountEntity> Accounts => Set<AccountEntity>();
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -26,5 +22,22 @@ namespace MomCare.Infrastructure.Presistences
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
 
         }
+        #region DbSet
+        public DbSet<AccountEntity> Accounts { get; set; }
+        public DbSet<ChildrentEntity> Childrents { get; set; }
+        public DbSet<CommentEntity> Comments { get; set; }
+        public DbSet<GrowthIndex> GrowthIndices { get; set; }
+        public DbSet<HealthMetric> HealthMetrics { get; set; }
+        public DbSet<Notification> Notifications { get; set; }
+        public DbSet<OrderEntity> Orders { get; set; }
+        public DbSet<PaymentEntity> Payments { get; set; }
+        public DbSet<PaymentMethod> Methods { get; set; }
+        public DbSet<PostEntity> Posts { get; set; }
+        public DbSet<ScheduleEntity> Schedules { get; set; }
+        public DbSet<SubscriptionEntity> Subscriptions { get; set; }
+        public DbSet<SubscriptionPlanEntity> Plans { get; set; }
+        public DbSet<TransactionHistory> Transactions { get; set; }
+        public DbSet<WHOStandard> Standards { get; set; }
+        #endregion
     }
 }
