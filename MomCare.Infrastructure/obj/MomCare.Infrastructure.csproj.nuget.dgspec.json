@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Swp391\\MomCare\\MomCare.Infrastructure\\MomCare.Infrastructure.csproj": {}
+    "D:\\MomCare\\MomCare.Infrastructure\\MomCare.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Swp391\\MomCare\\MomCare.Application\\MomCare.Application.csproj": {
+    "D:\\MomCare\\MomCare.Application\\MomCare.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Swp391\\MomCare\\MomCare.Application\\MomCare.Application.csproj",
+        "projectUniqueName": "D:\\MomCare\\MomCare.Application\\MomCare.Application.csproj",
         "projectName": "MomCare.Application",
-        "projectPath": "D:\\Swp391\\MomCare\\MomCare.Application\\MomCare.Application.csproj",
-        "packagesPath": "C:\\Users\\Tuan Kiet\\.nuget\\packages\\",
-        "outputPath": "D:\\Swp391\\MomCare\\MomCare.Application\\obj\\",
+        "projectPath": "D:\\MomCare\\MomCare.Application\\MomCare.Application.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\MomCare\\MomCare.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tuan Kiet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {
-                "projectPath": "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj"
+              "D:\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {
+                "projectPath": "D:\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj"
               }
             }
           }
@@ -48,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -69,24 +70,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {
+    "D:\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj",
+        "projectUniqueName": "D:\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj",
         "projectName": "MomCare.Domain",
-        "projectPath": "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj",
-        "packagesPath": "C:\\Users\\Tuan Kiet\\.nuget\\packages\\",
-        "outputPath": "D:\\Swp391\\MomCare\\MomCare.Domain\\obj\\",
+        "projectPath": "D:\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\MomCare\\MomCare.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tuan Kiet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -95,6 +96,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -113,7 +115,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -140,24 +142,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Swp391\\MomCare\\MomCare.Infrastructure\\MomCare.Infrastructure.csproj": {
+    "D:\\MomCare\\MomCare.Infrastructure\\MomCare.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Swp391\\MomCare\\MomCare.Infrastructure\\MomCare.Infrastructure.csproj",
+        "projectUniqueName": "D:\\MomCare\\MomCare.Infrastructure\\MomCare.Infrastructure.csproj",
         "projectName": "MomCare.Infrastructure",
-        "projectPath": "D:\\Swp391\\MomCare\\MomCare.Infrastructure\\MomCare.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Tuan Kiet\\.nuget\\packages\\",
-        "outputPath": "D:\\Swp391\\MomCare\\MomCare.Infrastructure\\obj\\",
+        "projectPath": "D:\\MomCare\\MomCare.Infrastructure\\MomCare.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\MomCare\\MomCare.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tuan Kiet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -166,17 +168,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Swp391\\MomCare\\MomCare.Application\\MomCare.Application.csproj": {
-                "projectPath": "D:\\Swp391\\MomCare\\MomCare.Application\\MomCare.Application.csproj"
+              "D:\\MomCare\\MomCare.Application\\MomCare.Application.csproj": {
+                "projectPath": "D:\\MomCare\\MomCare.Application\\MomCare.Application.csproj"
               },
-              "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {
-                "projectPath": "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj"
+              "D:\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {
+                "projectPath": "D:\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj"
               }
             }
           }
@@ -191,7 +194,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -218,7 +221,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
