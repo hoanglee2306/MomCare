@@ -17,7 +17,7 @@ namespace MomCare.Domain.Entities
         public string Note { get; set; }
         public OrderEntity? Order { get; set; }
         public AccountEntity? Account { get; set; }
-        public PaymentMethod? paymentMethod { get; set; }
+        public PaymentMethod? PaymentMethod { get; set; }
         public TransactionHistory? TransactionHistory { get; set; }
 
     }
