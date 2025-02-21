@@ -398,3 +398,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.vs/
+appsettings.json
+appsettings.*.json
+bin/
+obj/
+**/bin/
+**/obj/
+**/Migrations/*Snapshot.cs
