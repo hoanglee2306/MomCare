@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MomCare.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+593f8e25a9b26479c8a895c5188695500c5f5662")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f48f74d5e9263d4c25e8fa150c608b2f94cbee2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MomCare.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MomCare.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
