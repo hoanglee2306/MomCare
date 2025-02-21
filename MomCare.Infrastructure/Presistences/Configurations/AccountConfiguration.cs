@@ -8,6 +8,7 @@ namespace MomCare.Infrastructure.Presistences.Configurations
     {
         public void Configure(EntityTypeBuilder<AccountEntity> builder)
         {
+            builder.ToTable("Account");
             //account-subscription relationship
             builder.HasMany(s => s.SubscriptionEntities)
                  .WithOne(s => s.Account)
@@ -38,6 +39,15 @@ namespace MomCare.Infrastructure.Presistences.Configurations
                  .WithOne(n => n.Account)
                  .HasForeignKey(n => n.AccountId);
 
+            builder.HasKey(a => a.Id);
+            builder.Property(a => a.Name)
+                .IsRequired();
+            builder.Property(a => a.Email)
+                .IsRequired();
+            builder.Property(a => a.Password)
+                .IsRequired();
+            builder.Property(a => a.Phone)
+                .HasMaxLength(11);
         }
     }
 
