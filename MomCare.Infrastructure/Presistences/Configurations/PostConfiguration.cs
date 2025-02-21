@@ -13,6 +13,8 @@ namespace MomCare.Infrastructure.Presistences.Configurations
     {
         public void Configure(EntityTypeBuilder<PostEntity> builder)
         {
+            builder.ToTable("Post");
+            builder.HasKey(p => p.Id);
             //Post-CommentEntity relationship
             builder.HasMany(c => c.Comments)
                  .WithOne(c => c.Post)
