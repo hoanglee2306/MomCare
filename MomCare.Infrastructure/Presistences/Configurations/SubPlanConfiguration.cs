@@ -13,6 +13,11 @@ namespace MomCare.Infrastructure.Presistences.Configurations
     {
         public void Configure(EntityTypeBuilder<SubscriptionPlanEntity> builder)
         {
+            builder.ToTable("SubscriptionPlan");
+            builder.HasKey(s => s.Id);
+            builder.Property(s => s.Price)
+                .HasColumnType("decimal(18,2)");
+
             //SubPlan-Sub relationship
             builder.HasMany(s => s.SubscriptionEntities)
                  .WithOne(s => s.SubscriptionPlanEntity)

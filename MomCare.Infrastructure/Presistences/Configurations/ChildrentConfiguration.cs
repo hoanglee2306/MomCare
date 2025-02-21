@@ -14,10 +14,19 @@ namespace MomCare.Infrastructure.Presistences.Configurations
     {
         public void Configure(EntityTypeBuilder<ChildrentEntity> builder)
         {
+            builder.ToTable("Childrent");
             //Childrent-HealthMetric relationship
             builder.HasMany(h => h.HealthMetrics)
                  .WithOne(h => h.Childrent)
                  .HasForeignKey(h => h.ChildrentId);
+
+            builder.HasKey(c => c.Id);
+            builder.Property(c => c.Name)
+                .IsRequired();
+            builder.Property(c => c.Gender)
+                .IsRequired();
+            builder.Property(c => c.Birth)
+                .IsRequired();
 
         }
     }
