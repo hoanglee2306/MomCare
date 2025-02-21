@@ -5,34 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|d:\\momcare\\momcare.infrastructure\\presistences\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|solutionrelative:momcare.infrastructure\\presistences\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|d:\\momcare\\momcare.infrastructure\\presistences\\configurations\\whostandardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|solutionrelative:momcare.infrastructure\\presistences\\configurations\\whostandardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|d:\\momcare\\momcare.infrastructure\\presistences\\configurations\\subscriptionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|solutionrelative:momcare.infrastructure\\presistences\\configurations\\subscriptionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|d:\\momcare\\momcare.infrastructure\\presistences\\configurations\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|solutionrelative:momcare.infrastructure\\presistences\\configurations\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|d:\\momcare\\momcare.infrastructure\\presistences\\configurations\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|solutionrelative:momcare.infrastructure\\presistences\\configurations\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|d:\\momcare\\momcare.infrastructure\\presistences\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|solutionrelative:momcare.infrastructure\\presistences\\configurations\\commentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|d:\\momcare\\momcare.infrastructure\\presistences\\configurations\\scheduleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|solutionrelative:momcare.infrastructure\\presistences\\configurations\\scheduleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|d:\\momcare\\momcare.infrastructure\\presistences\\configurations\\growthindexconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF67DB2C-57CD-42B5-B451-BD968FC855EC}|MomCare.Infrastructure\\MomCare.Infrastructure.csproj|solutionrelative:momcare.infrastructure\\presistences\\configurations\\growthindexconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,98 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WHOStandardConfiguration.cs",
-              "DocumentMoniker": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\WHOStandardConfiguration.cs",
-              "RelativeDocumentMoniker": "MomCare.Infrastructure\\Presistences\\Configurations\\WHOStandardConfiguration.cs",
-              "ToolTip": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\WHOStandardConfiguration.cs",
-              "RelativeToolTip": "MomCare.Infrastructure\\Presistences\\Configurations\\WHOStandardConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:53:04.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubscriptionConfiguration.cs",
-              "DocumentMoniker": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\SubscriptionConfiguration.cs",
-              "RelativeDocumentMoniker": "MomCare.Infrastructure\\Presistences\\Configurations\\SubscriptionConfiguration.cs",
-              "ToolTip": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\SubscriptionConfiguration.cs",
-              "RelativeToolTip": "MomCare.Infrastructure\\Presistences\\Configurations\\SubscriptionConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:39:32.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScheduleConfiguration.cs",
-              "DocumentMoniker": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\ScheduleConfiguration.cs",
-              "RelativeDocumentMoniker": "MomCare.Infrastructure\\Presistences\\Configurations\\ScheduleConfiguration.cs",
-              "ToolTip": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\ScheduleConfiguration.cs",
-              "RelativeToolTip": "MomCare.Infrastructure\\Presistences\\Configurations\\ScheduleConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:38:54.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PaymentConfiguration.cs",
-              "DocumentMoniker": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\PaymentConfiguration.cs",
-              "RelativeDocumentMoniker": "MomCare.Infrastructure\\Presistences\\Configurations\\PaymentConfiguration.cs",
-              "ToolTip": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\PaymentConfiguration.cs",
-              "RelativeToolTip": "MomCare.Infrastructure\\Presistences\\Configurations\\PaymentConfiguration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:38:20.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotificationConfiguration.cs",
-              "DocumentMoniker": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\NotificationConfiguration.cs",
-              "RelativeDocumentMoniker": "MomCare.Infrastructure\\Presistences\\Configurations\\NotificationConfiguration.cs",
-              "ToolTip": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\NotificationConfiguration.cs",
-              "RelativeToolTip": "MomCare.Infrastructure\\Presistences\\Configurations\\NotificationConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:37:29.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GrowthIndexConfiguration.cs",
-              "DocumentMoniker": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\GrowthIndexConfiguration.cs",
-              "RelativeDocumentMoniker": "MomCare.Infrastructure\\Presistences\\Configurations\\GrowthIndexConfiguration.cs",
-              "ToolTip": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\GrowthIndexConfiguration.cs",
-              "RelativeToolTip": "MomCare.Infrastructure\\Presistences\\Configurations\\GrowthIndexConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:37:00.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CommentConfiguration.cs",
-              "DocumentMoniker": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\CommentConfiguration.cs",
-              "RelativeDocumentMoniker": "MomCare.Infrastructure\\Presistences\\Configurations\\CommentConfiguration.cs",
-              "ToolTip": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\Configurations\\CommentConfiguration.cs",
-              "RelativeToolTip": "MomCare.Infrastructure\\Presistences\\Configurations\\CommentConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:35:59.602Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MomCare.Infrastructure\\Presistences\\ApplicationDbContext.cs",
               "ToolTip": "D:\\MomCare\\MomCare.Infrastructure\\Presistences\\ApplicationDbContext.cs",
               "RelativeToolTip": "MomCare.Infrastructure\\Presistences\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T08:41:30.657Z",
               "EditorCaption": ""
