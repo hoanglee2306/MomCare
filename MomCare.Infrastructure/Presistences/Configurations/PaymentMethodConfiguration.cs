@@ -13,6 +13,8 @@ namespace MomCare.Infrastructure.Presistences.Configurations
     {
         public void Configure(EntityTypeBuilder<PaymentMethod> builder)
         {
+            builder.ToTable("PaymentMethod");
+            builder.HasKey(m => m.Id);
             //PaymentMethod-Payment relationship
             builder.HasMany(p => p.Payments)
                  .WithOne(p => p.PaymentMethod)

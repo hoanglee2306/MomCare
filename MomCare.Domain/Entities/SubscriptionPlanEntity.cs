@@ -13,7 +13,7 @@ namespace MomCare.Domain.Entities
         public Guid Id { get; set; }
         public SubscriptionPlanName Name { get; set; }
 
-        public double Price { get; set; }
+        public decimal Price { get; set; }
         public DateTime DurationMonth { get; set; }
         public string Description  { get; set; }
         public List<SubscriptionEntity>? SubscriptionEntities { get; set; }
