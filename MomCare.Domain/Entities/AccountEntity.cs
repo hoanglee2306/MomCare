@@ -16,6 +16,7 @@ namespace MomCare.Domain.Entities
 {
     public class AccountEntity  : BaseEntity
     {
+        [Table("Account")]
 
         //public string? UrlAvatar { get; set; }
 
