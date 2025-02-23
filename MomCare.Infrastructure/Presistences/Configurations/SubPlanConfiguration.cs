@@ -21,12 +21,14 @@ namespace MomCare.Infrastructure.Presistences.Configurations
             //SubPlan-Sub relationship
             builder.HasMany(s => s.SubscriptionEntities)
                  .WithOne(s => s.SubscriptionPlanEntity)
-                 .HasForeignKey(s => s.PlanId);
+                 .HasForeignKey(s => s.PlanId)
+                 .OnDelete(DeleteBehavior.Restrict); 
 
             //SubPlan-Order relationship
             builder.HasMany(o => o.Orders)
                 .WithOne(o => o.SubscriptionPlan)
-                .HasForeignKey(o => o.PlanId);
+                .HasForeignKey(o => o.PlanId)
+                .OnDelete(DeleteBehavior.Restrict); 
         }
     }
 }
