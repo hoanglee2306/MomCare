@@ -17,4 +17,5 @@ namespace MomCare.Infrastructure.Presistences.Configurations
             builder.HasKey(n => n.Id);
         }
     }
+
 }
