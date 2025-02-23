@@ -18,7 +18,8 @@ namespace MomCare.Infrastructure.Presistences.Configurations
             //Post-CommentEntity relationship
             builder.HasMany(c => c.Comments)
                  .WithOne(c => c.Post)
-                 .HasForeignKey(c => c.PostId);
+                 .HasForeignKey(c => c.PostId)
+                 .OnDelete(DeleteBehavior.Restrict);
 
         }
     }

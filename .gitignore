@@ -406,3 +406,9 @@ obj/
 **/bin/
 **/obj/
 **/Migrations/*Snapshot.cs
+
+*.suo
+*.dbatac
+*.dbatac.v2
+DocumentLayout.json
+*.backup

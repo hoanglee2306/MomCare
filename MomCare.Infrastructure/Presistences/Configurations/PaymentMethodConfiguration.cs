@@ -18,7 +18,8 @@ namespace MomCare.Infrastructure.Presistences.Configurations
             //PaymentMethod-Payment relationship
             builder.HasMany(p => p.Payments)
                  .WithOne(p => p.PaymentMethod)
-                 .HasForeignKey(p => p.MethodId);
+                 .HasForeignKey(p => p.MethodId)
+                 .OnDelete(DeleteBehavior.Restrict); 
 
         }
     }
