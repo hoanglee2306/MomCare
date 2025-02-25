@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {}
+    "D:\\SWP\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {
+    "D:\\SWP\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj",
+        "projectUniqueName": "D:\\SWP\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj",
         "projectName": "MomCare.Domain",
-        "projectPath": "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj",
-        "packagesPath": "C:\\Users\\Tuan Kiet\\.nuget\\packages\\",
-        "outputPath": "D:\\Swp391\\MomCare\\MomCare.Domain\\obj\\",
+        "projectPath": "D:\\SWP\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj",
+        "packagesPath": "C:\\Users\\dinggdinggg\\.nuget\\packages\\",
+        "outputPath": "D:\\SWP\\MomCare\\MomCare.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tuan Kiet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dinggdinggg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

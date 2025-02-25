@@ -612,23 +612,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tuan Kiet\\.nuget\\packages\\": {},
+    "C:\\Users\\dinggdinggg\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Swp391\\MomCare\\MomCare.Application\\MomCare.Application.csproj",
+      "projectUniqueName": "D:\\SWP\\MomCare\\MomCare.Application\\MomCare.Application.csproj",
       "projectName": "MomCare.Application",
-      "projectPath": "D:\\Swp391\\MomCare\\MomCare.Application\\MomCare.Application.csproj",
-      "packagesPath": "C:\\Users\\Tuan Kiet\\.nuget\\packages\\",
-      "outputPath": "D:\\Swp391\\MomCare\\MomCare.Application\\obj\\",
+      "projectPath": "D:\\SWP\\MomCare\\MomCare.Application\\MomCare.Application.csproj",
+      "packagesPath": "C:\\Users\\dinggdinggg\\.nuget\\packages\\",
+      "outputPath": "D:\\SWP\\MomCare\\MomCare.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tuan Kiet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dinggdinggg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -643,8 +643,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {
-              "projectPath": "D:\\Swp391\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj"
+            "D:\\SWP\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj": {
+              "projectPath": "D:\\SWP\\MomCare\\MomCare.Domain\\MomCare.Domain.csproj"
             }
           }
         }
