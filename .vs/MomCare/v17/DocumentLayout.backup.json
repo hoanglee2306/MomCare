@@ -1,7 +1,84 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SWP\\MomCare\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|d:\\swp\\momcare\\momcare.api\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|solutionrelative:momcare.api\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CDAD2F-CFD0-485C-9D90-FAF2FF64B5B5}|MomCare.Domain\\MomCare.Domain.csproj|d:\\swp\\momcare\\momcare.domain\\common\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CDAD2F-CFD0-485C-9D90-FAF2FF64B5B5}|MomCare.Domain\\MomCare.Domain.csproj|solutionrelative:momcare.domain\\common\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|d:\\swp\\momcare\\momcare.application\\features\\features\\guest\\login\\email\\loginuseraccountwithemailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|solutionrelative:momcare.application\\features\\features\\guest\\login\\email\\loginuseraccountwithemailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|d:\\swp\\momcare\\momcare.application\\features\\features\\guest\\login\\email\\loginuseraccountwithemailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|solutionrelative:momcare.application\\features\\features\\guest\\login\\email\\loginuseraccountwithemailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|d:\\swp\\momcare\\momcare.application\\features\\features\\guest\\login\\email\\loginuseraccountwithemailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|solutionrelative:momcare.application\\features\\features\\guest\\login\\email\\loginuseraccountwithemailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|d:\\swp\\momcare\\momcare.application\\features\\features\\guest\\login\\email\\loginuseraccountwithemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|solutionrelative:momcare.application\\features\\features\\guest\\login\\email\\loginuseraccountwithemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|d:\\swp\\momcare\\momcare.application\\common\\common\\interfaces\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|solutionrelative:momcare.application\\common\\common\\interfaces\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|d:\\swp\\momcare\\momcare.application\\common\\common\\interfaces\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|solutionrelative:momcare.application\\common\\common\\interfaces\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|d:\\swp\\momcare\\momcare.application\\common\\common\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|solutionrelative:momcare.application\\common\\common\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|d:\\swp\\momcare\\momcare.application\\common\\common\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|solutionrelative:momcare.application\\common\\common\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|d:\\swp\\momcare\\momcare.application\\common\\common\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8504329E-0859-4B61-B427-7689EC0A0536}|MomCare.Application\\MomCare.Application.csproj|solutionrelative:momcare.application\\common\\common\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|d:\\swp\\momcare\\momcare.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|solutionrelative:momcare.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|d:\\swp\\momcare\\momcare.api\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|solutionrelative:momcare.api\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|d:\\swp\\momcare\\momcare.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|solutionrelative:momcare.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|d:\\swp\\momcare\\momcare.api\\controllers\\account\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|solutionrelative:momcare.api\\controllers\\account\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|d:\\swp\\momcare\\momcare.api\\controllers\\account\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|solutionrelative:momcare.api\\controllers\\account\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|d:\\swp\\momcare\\momcare.api\\controllers\\account\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|solutionrelative:momcare.api\\controllers\\account\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|d:\\swp\\momcare\\momcare.api\\controllers\\account\\verification\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|solutionrelative:momcare.api\\controllers\\account\\verification\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|d:\\swp\\momcare\\momcare.api\\controllers\\account\\verification\\confirmemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465FF0D5-50B2-41AE-82E4-7D5120F649C6}|MomCare.API\\MomCare.API.csproj|solutionrelative:momcare.api\\controllers\\account\\verification\\confirmemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +86,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 325,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 16,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Domain\\Common\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MomCare.Domain\\Common\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Domain\\Common\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "MomCare.Domain\\Common\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:45:29.328Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -34,6 +124,240 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginUserAccountWithEmailValidator.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailValidator.cs",
+              "RelativeDocumentMoniker": "MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailValidator.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailValidator.cs",
+              "RelativeToolTip": "MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:44:19.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUserAccountWithEmailResponse.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailResponse.cs",
+              "RelativeDocumentMoniker": "MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailResponse.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailResponse.cs",
+              "RelativeToolTip": "MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:44:18.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUserAccountWithEmailHandler.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailHandler.cs",
+              "RelativeDocumentMoniker": "MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailHandler.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailHandler.cs",
+              "RelativeToolTip": "MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:44:18.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginUserAccountWithEmailCommand.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailCommand.cs",
+              "RelativeDocumentMoniker": "MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailCommand.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailCommand.cs",
+              "RelativeToolTip": "MomCare.Application\\Features\\Features\\Guest\\Login\\Email\\LoginUserAccountWithEmailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:44:15.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRedisService.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Application\\Common\\Common\\Interfaces\\IRedisService.cs",
+              "RelativeDocumentMoniker": "MomCare.Application\\Common\\Common\\Interfaces\\IRedisService.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Application\\Common\\Common\\Interfaces\\IRedisService.cs",
+              "RelativeToolTip": "MomCare.Application\\Common\\Common\\Interfaces\\IRedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:43:55.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOtpService.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Application\\Common\\Common\\Interfaces\\IOtpService.cs",
+              "RelativeDocumentMoniker": "MomCare.Application\\Common\\Common\\Interfaces\\IOtpService.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Application\\Common\\Common\\Interfaces\\IOtpService.cs",
+              "RelativeToolTip": "MomCare.Application\\Common\\Common\\Interfaces\\IOtpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:43:55.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Application\\Common\\Common\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "MomCare.Application\\Common\\Common\\Interfaces\\IEmailService.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Application\\Common\\Common\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "MomCare.Application\\Common\\Common\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:43:54.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Application\\Common\\Common\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "MomCare.Application\\Common\\Common\\Interfaces\\IJwtService.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Application\\Common\\Common\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "MomCare.Application\\Common\\Common\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:43:54.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.Application\\Common\\Common\\Interfaces\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "MomCare.Application\\Common\\Common\\Interfaces\\ICurrentUserService.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.Application\\Common\\Common\\Interfaces\\ICurrentUserService.cs",
+              "RelativeToolTip": "MomCare.Application\\Common\\Common\\Interfaces\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:43:50.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.API\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "MomCare.API\\Services\\RedisService.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.API\\Services\\RedisService.cs",
+              "RelativeToolTip": "MomCare.API\\Services\\RedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:43:05.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.API\\Services\\OtpService.cs",
+              "RelativeDocumentMoniker": "MomCare.API\\Services\\OtpService.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.API\\Services\\OtpService.cs",
+              "RelativeToolTip": "MomCare.API\\Services\\OtpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:42:57.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.API\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "MomCare.API\\Services\\JwtService.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.API\\Services\\JwtService.cs",
+              "RelativeToolTip": "MomCare.API\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:42:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.API\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "MomCare.API\\Services\\EmailService.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.API\\Services\\EmailService.cs",
+              "RelativeToolTip": "MomCare.API\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:42:30.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.API\\Controllers\\Account\\UserController.cs",
+              "RelativeDocumentMoniker": "MomCare.API\\Controllers\\Account\\UserController.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.API\\Controllers\\Account\\UserController.cs",
+              "RelativeToolTip": "MomCare.API\\Controllers\\Account\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:42:00.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.API\\Controllers\\Account\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "MomCare.API\\Controllers\\Account\\AuthenticationController.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.API\\Controllers\\Account\\AuthenticationController.cs",
+              "RelativeToolTip": "MomCare.API\\Controllers\\Account\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:42:00.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.API\\Controllers\\Account\\AdminController.cs",
+              "RelativeDocumentMoniker": "MomCare.API\\Controllers\\Account\\AdminController.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.API\\Controllers\\Account\\AdminController.cs",
+              "RelativeToolTip": "MomCare.API\\Controllers\\Account\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:41:59.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfirmEmailController.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.API\\Controllers\\Account\\Verification\\ConfirmEmailController.cs",
+              "RelativeDocumentMoniker": "MomCare.API\\Controllers\\Account\\Verification\\ConfirmEmailController.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.API\\Controllers\\Account\\Verification\\ConfirmEmailController.cs",
+              "RelativeToolTip": "MomCare.API\\Controllers\\Account\\Verification\\ConfirmEmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:41:32.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OtpController.cs",
+              "DocumentMoniker": "D:\\SWP\\MomCare\\MomCare.API\\Controllers\\Account\\Verification\\OtpController.cs",
+              "RelativeDocumentMoniker": "MomCare.API\\Controllers\\Account\\Verification\\OtpController.cs",
+              "ToolTip": "D:\\SWP\\MomCare\\MomCare.API\\Controllers\\Account\\Verification\\OtpController.cs",
+              "RelativeToolTip": "MomCare.API\\Controllers\\Account\\Verification\\OtpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:41:35.565Z",
+              "EditorCaption": ""
             }
           ]
         },
