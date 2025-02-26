@@ -21,12 +21,6 @@ namespace MomCare.Infrastructure.Presistences.Configurations
                  .HasForeignKey(h => h.ChildrentId);
 
             builder.HasKey(c => c.Id);
-            builder.Property(c => c.Name)
-                .IsRequired();
-            builder.Property(c => c.Gender)
-                .IsRequired();
-            builder.Property(c => c.Birth)
-                .IsRequired();
 
         }
     }
